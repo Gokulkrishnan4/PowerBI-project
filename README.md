@@ -66,4 +66,3 @@ For each objective listed, here are potential DAX (Data Analysis Expressions) fu
            FILTER('Patients', 'Patients'[Age] >= 18 && 'Patients'[Age] < 30 && 'Patients'[Race] = "African American")
        )
        
-These examples demonstrate how DAX functions can be applied in Power BI to compute metrics and perform analyses based on the specified objectives related to patient data. Adjustments may be necessary based on the specific structure of your dataset and the exact metrics you aim to calculate.
